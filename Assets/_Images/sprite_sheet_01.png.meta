@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 8d7e391399a80394f8d0e909ec16db04
+timeCreated: 1439225300
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lv4_bg
+    21300002: lv4_bongcay
+    21300004: lv4_cay
+    21300006: lv4_cay2
+    21300008: lv4_giay
+    21300010: lv4_ho
+    21300012: lv4_ho2
+    21300014: lv4_home
+    21300016: lv4_home2
+    21300018: lv5_home5
+    21300020: lv6_cay1
+    21300022: lv6_cay2
+    21300024: lv6_cay3
+    21300026: lv6_cay4
+    21300028: lv6_cay5
+    21300030: lv6_cayxanh
+    21300032: lv6_gio
+    21300034: lv6_qua
+    21300036: lv6_thungrac
+    21300038: lv7_canhdong
+    21300040: lv7_cay
+    21300042: lv7_hangrao
+    21300044: lv7_mattroi
+    21300046: lv7_rom
+    21300048: lv8_camap
+    21300050: lv8_cau
+    21300052: lv8_caycau
+    21300054: lv8_haidang1
+    21300056: lv8_haidang2
+    21300058: lv8_home
+    21300060: lv8_maybay
+    21300062: lv8_nui
+    21300064: lv8_song
+    21300066: lv8_song1
+    21300068: lv8_song2
+    21300070: lv8_thuyen
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lv4_bg
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 242
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_bongcay
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 83
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_cay
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 109
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_cay2
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 108
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_giay
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 500
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_ho
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 43
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_ho2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 314
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_home
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 163
+        width: 144
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv4_home2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 327
+        height: 623
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv5_home5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 786
+        width: 643
+        height: 394
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_cay1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_cay2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 73
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_cay3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 225
+        width: 67
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_cay4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 74
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_cay5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 794
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_cayxanh
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1306
+        width: 1280
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_gio
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 274
+        width: 164
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_qua
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 493
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv6_thungrac
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 797
+        width: 158
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv7_canhdong
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 378
+        width: 920
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv7_cay
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 158
+        width: 104
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv7_hangrao
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 589
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv7_mattroi
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 279
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv7_rom
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 142
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_camap
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 536
+        width: 239
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_cau
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 23
+        width: 133
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_caycau
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 886
+        width: 616
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_haidang1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 97
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_haidang2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 20
+        width: 97
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_home
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 485
+        width: 675
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_maybay
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 290
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_nui
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 294
+        width: 375
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_song
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 667
+        width: 274
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_song1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1182
+        width: 1280
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_song2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1486
+        width: 1280
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv8_thuyen
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 205
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

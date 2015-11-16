@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 09b5b43bc29f1e3408ed4e40e174e84a
+timeCreated: 1438624912
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: game01_bac1
+    21300002: game01_2
+    21300004: game01_bac3
+    21300006: bong 2
+    21300008: bong
+    21300010: game01_buyt
+    21300012: game01_cotden
+    21300014: ghe buyt
+    21300016: hat tuyet
+    21300018: game01_nha2
+    21300020: game01_nha1
+    21300022: game01_nha3
+    21300024: game01_hop2
+    21300026: game01_hop3
+    21300028: game01_hop1
+    21300030: may
+    21300032: tran phone
+    21300034: game01_tuyet
+    21300036: tuyet 3
+    21300038: vach ke duong
+    21300040: van truot
+    21300042: game01_cuuhoa
+    21300044: bac 1
+    21300046: bac 2
+    21300048: bac 3
+    21300050: buyt
+    21300052: cot den
+    21300054: home 1
+    21300056: home 2
+    21300058: home3
+    21300060: hop qua 1
+    21300062: hop qua 3
+    21300064: hop qua
+    21300066: tuyet 2
+    21300068: voi cuu hoa
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bac 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 168
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bac 2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 474
+        width: 168
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bac 3
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 554
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bong 2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 16
+        width: 598
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bong
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 9
+        width: 189
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buyt
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 80
+        width: 173
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cot den
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 19
+        width: 26
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghe buyt
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 308
+        width: 196
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hat tuyet
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 24
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home 1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 388
+        width: 375
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home 2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 56
+        width: 227
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 598
+        height: 612
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hop qua 1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 347
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hop qua 3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 272
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hop qua
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 422
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: may
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 498
+        width: 415
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tran phone
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 187
+        width: 159
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuyet 2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tuyet 3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 30
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vach ke duong
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 665
+        width: 1237
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: van truot
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 189
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: voi cuu hoa
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 42
+        width: 133
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

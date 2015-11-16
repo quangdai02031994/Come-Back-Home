@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: bba1701e366b91e438d7654fd41066a1
+timeCreated: 1438673149
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lv2_caythong_0
+    21300002: lv2_caythong_1
+    21300004: lv2_caythong_2
+    21300006: lv2_caythong_3
+    21300008: lv2_vantruot
+    21300010: lv3_
+    21300012: lv3_bg
+    21300014: lv3_concao
+    21300016: lv3_cucda
+    21300018: lv3_ho
+    21300020: lv3_home
+    21300022: lv3_nguoituyet
+    21300024: lv3_xetruottuyet
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lv2_caythong_0
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 260
+        width: 41
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv2_caythong_1
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 375
+        width: 182
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv2_caythong_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 358
+        width: 197
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv2_caythong_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 140
+        width: 197
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv2_vantruot
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 134
+        width: 309
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 955
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 1278
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_concao
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 24
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_cucda
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 222
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_ho
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 100
+        width: 156
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_home
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 4
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_nguoituyet
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 261
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lv3_xetruottuyet
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 18
+        width: 355
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

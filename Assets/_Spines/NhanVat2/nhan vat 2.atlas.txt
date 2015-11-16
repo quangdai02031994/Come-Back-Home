@@ -1,0 +1,97 @@
+
+nhan vat 2.png
+size: 558,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 79, 71
+  size: 156, 383
+  orig: 158, 385
+  offset: 1, 1
+  index: -1
+bong
+  rotate: true
+  xy: 64, 43
+  size: 184, 13
+  orig: 186, 15
+  offset: 1, 1
+  index: -1
+cavat
+  rotate: true
+  xy: 427, 18
+  size: 51, 119
+  orig: 53, 121
+  offset: 1, 1
+  index: -1
+chan phai
+  rotate: false
+  xy: 2, 36
+  size: 29, 191
+  orig: 31, 193
+  offset: 1, 1
+  index: -1
+chan trai
+  rotate: false
+  xy: 33, 36
+  size: 29, 191
+  orig: 31, 193
+  offset: 1, 1
+  index: -1
+long mi
+  rotate: false
+  xy: 464, 221
+  size: 92, 6
+  orig: 94, 8
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 413, 2
+  size: 67, 12
+  orig: 69, 14
+  offset: 1, 1
+  index: -1
+mieng
+  rotate: false
+  xy: 427, 2
+  size: 51, 14
+  orig: 53, 16
+  offset: 1, 1
+  index: -1
+mui
+  rotate: false
+  xy: 79, 45
+  size: 14, 24
+  orig: 16, 26
+  offset: 1, 1
+  index: -1
+tay phai
+  rotate: true
+  xy: 124, 2
+  size: 67, 150
+  orig: 69, 152
+  offset: 1, 1
+  index: -1
+tay trai
+  rotate: false
+  xy: 464, 87
+  size: 82, 132
+  orig: 84, 134
+  offset: 1, 1
+  index: -1
+toc
+  rotate: false
+  xy: 276, 2
+  size: 135, 67
+  orig: 137, 69
+  offset: 1, 1
+  index: -1
+vali
+  rotate: true
+  xy: 2, 3
+  size: 31, 120
+  orig: 33, 122
+  offset: 1, 1
+  index: -1

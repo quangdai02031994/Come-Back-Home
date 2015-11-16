@@ -1,0 +1,43 @@
+﻿============================= Player_xx ========================
+Những chú ý khi cài đặt 1 Player_xx mới
+
+1. OnTriggerEnter2D
+if (other.gameObject.tag == Tags.FINISH && this.enabled)
+            OnFinishLevel();
+2.	public override void OnFinishLevel()
+    {
+        Debug.Log("OnFinishLevel - Phần trăm quãng đường đi được: " + PhanTramQuangDuongDaDiDuoc());
+        base.OnFinishLevel();
+        SaveManager.SaveStarLevel(1, currentStar);
+    }
+
+3. setup timer
+    protected override void Start()
+    {
+        timer = 0;
+    }
+
+	void Update()
+    {
+        if (MainController.Instance.IsPlaying)
+            timer += Time.deltaTime;
+    }    
+	
+	public override void ResetPlayer()
+    {
+        timer = 0;
+    }
+
+4. Tính quãng đường
+    public float toaDoCuoiCung;
+    public override float PhanTramQuangDuongDaDiDuoc()
+    {
+        float tongQuangDuong = toaDoCuoiCung - viTriBanDau.position.x;
+        float diDuoc = timer * MainController.Instance.levelControllers[MainController.Instance.CurrentLevel].speed;
+        return diDuoc / tongQuangDuong;
+    }
+
+5. Chú ý các hàm Trigger Colllider và coliision
+  if (this.enabled)
+        {
+		Vì mặc dù ko được enable nhưng nó vẫn nhảy vào các hàm này của script

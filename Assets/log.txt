@@ -1,0 +1,11 @@
+﻿Test:
+1. Bật Game_01
+2. Check vào Player_01 trong player
+
+
+15/8:
+* Xử lý level 2
+- Tạo thêm 2 Trigger "Layer_A" và "Layer_B" để thay đổi order Layer của nhân vật
+- Tách phần intro ra làm scene riêng
+
+- Thử tách ra làm 2 scene riêng xem

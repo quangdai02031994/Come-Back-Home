@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 397ac743e553ccc4d991df49897b16fd
+timeCreated: 1438617495
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: intro_dongho
+    21300002: intro_canhCua
+    21300004: intro_title
+    21300006: icon_qua
+    21300008: icon_amthanh_off
+    21300010: icon_amthanh_on
+    21300012: icon_play
+    21300014: Intro_4
+    21300016: dongho_kimdai
+    21300018: dongho_tam
+    21300020: dongho_kimNgan
+    21300022: dongho_ring1
+    21300024: dongho_ring2
+    21300026: Intro_5
+    21300028: dongho_tam2
+    21300030: dongho_bong
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: intro_dongho
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 215
+        width: 449
+        height: 397
+      alignment: 9
+      pivot: {x: .5, y: .494623661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_canhCua
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 1268
+        height: 628
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: intro_title
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 384
+        width: 846
+        height: 228
+      alignment: 9
+      pivot: {x: .498226941, y: .490953952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_qua
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 267
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_amthanh_off
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 177
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_amthanh_on
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 177
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_play
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 141
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 4
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_kimdai
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 54
+        width: 5
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_tam
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 91
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_kimNgan
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 109
+        width: 69
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_ring1
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 83
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_ring2
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 84
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 97
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_tam2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 217
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dongho_bong
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 163
+        width: 502
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

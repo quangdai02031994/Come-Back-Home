@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: game0203.png (1668 x 576)
+# $TexturePacker:SmartUpdate:0c96cc8dc1237cfcbc085f487e0b7331:1c3b78e2225455a8476c18017e84f798:1dcc33208bacb41882104072e6676997$
+#
+
+lv2_caythong_0;1595;260;41;113;0.5;0.5
+lv2_caythong_1;1481;375;182;199;0.5;0.5
+lv2_caythong_2;1282;358;197;216;0.5;0.5
+lv2_caythong_3;1282;140;197;216;0.5;0.5
+lv2_vantruot;959;134;309;45;0.5;0.5
+lv3_;2;5;955;174;0.5;0.5
+lv3_bg;2;181;1278;393;0.5;0.5
+lv3_concao;959;24;126;74;0.5;0.5
+lv3_cucda;1481;222;43;37;0.5;0.5
+lv3_ho;959;100;156;32;0.5;0.5
+lv3_home;1117;4;144;128;0.5;0.5
+lv3_nguoituyet;1481;261;112;112;0.5;0.5
+lv3_xetruottuyet;1270;18;355;120;0.5;0.5

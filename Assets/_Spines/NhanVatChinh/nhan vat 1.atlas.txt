@@ -1,0 +1,230 @@
+
+nhan vat 1.png
+size: 1388,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY4
+  rotate: false
+  xy: 367, 30
+  size: 181, 442
+  orig: 183, 444
+  offset: 1, 1
+  index: -1
+Toc3
+  rotate: true
+  xy: 1106, 292
+  size: 180, 99
+  orig: 182, 101
+  offset: 1, 1
+  index: -1
+banh sau
+  rotate: false
+  xy: 1281, 47
+  size: 93, 93
+  orig: 95, 95
+  offset: 1, 1
+  index: -1
+banh truoc
+  rotate: true
+  xy: 1186, 46
+  size: 94, 93
+  orig: 96, 95
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 185, 29
+  size: 180, 443
+  orig: 182, 445
+  offset: 1, 1
+  index: -1
+body 3
+  rotate: false
+  xy: 550, 30
+  size: 180, 442
+  orig: 182, 444
+  offset: 1, 1
+  index: -1
+body 5
+  rotate: false
+  xy: 2, 29
+  size: 181, 443
+  orig: 183, 445
+  offset: 1, 1
+  index: -1
+bong
+  rotate: false
+  xy: 199, 2
+  size: 311, 7
+  orig: 313, 9
+  offset: 1, 1
+  index: -1
+cavat2
+  rotate: false
+  xy: 1144, 36
+  size: 40, 130
+  orig: 42, 132
+  offset: 1, 1
+  index: -1
+cavat3
+  rotate: true
+  xy: 1186, 142
+  size: 40, 130
+  orig: 42, 132
+  offset: 1, 1
+  index: -1
+chan 1
+  rotate: true
+  xy: 96, 7
+  size: 20, 92
+  orig: 22, 94
+  offset: 1, 1
+  index: -1
+chan 2
+  rotate: true
+  xy: 96, 7
+  size: 20, 92
+  orig: 22, 94
+  offset: 1, 1
+  index: -1
+chan 4
+  rotate: true
+  xy: 96, 7
+  size: 20, 92
+  orig: 22, 94
+  offset: 1, 1
+  index: -1
+chan 3
+  rotate: true
+  xy: 2, 6
+  size: 21, 92
+  orig: 23, 94
+  offset: 1, 1
+  index: -1
+chan phai
+  rotate: false
+  xy: 1085, 4
+  size: 57, 219
+  orig: 59, 221
+  offset: 1, 1
+  index: -1
+chan trai
+  rotate: false
+  xy: 1025, 4
+  size: 58, 219
+  orig: 60, 221
+  offset: 1, 1
+  index: -1
+duoi
+  rotate: true
+  xy: 1106, 225
+  size: 65, 66
+  orig: 67, 68
+  offset: 1, 1
+  index: -1
+gay truot tuyet
+  rotate: true
+  xy: 498, 12
+  size: 16, 216
+  orig: 16, 216
+  offset: 0, 0
+  index: -1
+giay truot
+  rotate: true
+  xy: 1332, 168
+  size: 85, 46
+  orig: 87, 50
+  offset: 1, 3
+  index: -1
+long mi
+  rotate: false
+  xy: 716, 13
+  size: 38, 15
+  orig: 40, 17
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 190, 9
+  size: 18, 7
+  orig: 20, 9
+  offset: 1, 1
+  index: -1
+mom
+  rotate: false
+  xy: 716, 2
+  size: 27, 9
+  orig: 29, 11
+  offset: 1, 1
+  index: -1
+tay phai
+  rotate: false
+  xy: 1207, 364
+  size: 179, 108
+  orig: 181, 110
+  offset: 1, 1
+  index: -1
+tay trai
+  rotate: true
+  xy: 1207, 255
+  size: 107, 166
+  orig: 109, 168
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 975, 225
+  size: 247, 129
+  orig: 249, 130
+  offset: 1, 1
+  index: -1
+than xe
+  rotate: true
+  xy: 854, 201
+  size: 271, 119
+  orig: 273, 121
+  offset: 1, 1
+  index: -1
+toc
+  rotate: false
+  xy: 1174, 184
+  size: 156, 69
+  orig: 158, 71
+  offset: 1, 1
+  index: -1
+toc4
+  rotate: true
+  xy: 756, 3
+  size: 186, 124
+  orig: 188, 126
+  offset: 1, 1
+  index: -1
+toc5
+  rotate: true
+  xy: 915, 17
+  size: 182, 108
+  orig: 184, 110
+  offset: 1, 1
+  index: -1
+van truot
+  rotate: true
+  xy: 882, 10
+  size: 189, 31
+  orig: 191, 33
+  offset: 1, 1
+  index: -1
+van truot tuyet
+  rotate: false
+  xy: 199, 11
+  size: 297, 16
+  orig: 297, 16
+  offset: 0, 0
+  index: -1
+xe truot tuyet
+  rotate: true
+  xy: 732, 191
+  size: 281, 120
+  orig: 283, 122
+  offset: 1, 1
+  index: -1
